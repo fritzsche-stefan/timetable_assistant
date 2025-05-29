@@ -1,0 +1,8 @@
+---
+[
+  {
+        'name': 'Mustermann',
+        'surename': 'Max'
+  },
+  # ...
+]
